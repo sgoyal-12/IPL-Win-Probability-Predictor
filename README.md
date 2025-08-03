@@ -39,7 +39,7 @@ Source: [Kaggle IPL Dataset](https://www.kaggle.com/datasets)
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/AkshatSarin2004/IPL-Win-Probability-Predictor.git
+   git clone https://github.com/sgoyal-12/IPL-Win-Probability-Predictor.git
    cd repo
 2. Install dependencies:
    pip install -r requirements.txt
